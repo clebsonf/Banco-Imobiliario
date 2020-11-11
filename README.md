@@ -12,6 +12,7 @@ Primeiramente, certifique-se de que você tenha instalados:
  - JDK 8
  - Eclipse ou Netbeans
  - git
+ - maven
  
  em seguida crie um diretório para ser sua Workspace e clone o repositório dentro desta pasta:
 
